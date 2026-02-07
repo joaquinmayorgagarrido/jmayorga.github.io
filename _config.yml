@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Joaquin Mayorga"
-  pronouns         : # example: "she/her"  
+  pronouns         : ""
   bio              : "Postdoctoral Scholar at Evans Policy Analysis and Research Group"
   location         : "Seattle, US"
   employer         : "University of Washington"
-  uri              : # URL
+  uri              : ""
   email            : "jmayorga@uw.edu" 
 
   # Academic websites
@@ -89,7 +89,7 @@ publication_category:
   manuscripts:
     title: 'Published Papers'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
