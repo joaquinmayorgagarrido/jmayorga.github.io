@@ -1,8 +1,8 @@
 ---
 title: "Farm‐level agricultural productivity and adaptation to extreme heat"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: articles
+permalink: /publication/2026-extreme-heat
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026
 venue: 'American Journal of Agricultural Economics'
