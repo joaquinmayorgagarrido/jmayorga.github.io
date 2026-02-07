@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Business Administration, ASU, 2023
+* M.S. in Economics, ASU, 2019
+* M.S. in Economics, CIDE, 2017
+* B.S. in Economics, UPB, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* 2023-Present: Postdoctoral Scholar
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
