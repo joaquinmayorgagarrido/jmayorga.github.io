@@ -1,7 +1,7 @@
 ---
 title: "Farm‐level agricultural productivity and adaptation to extreme heat"
 collection: publications
-category: articles
+category:
 permalink: /publication/2026-extreme-heat
 excerpt: ''
 date: 2026-01-01
