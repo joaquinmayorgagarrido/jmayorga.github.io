@@ -1,8 +1,8 @@
 ---
 title: "Farm‐level agricultural productivity and adaptation to extreme heat"
-collection: manuscripts
-category: conferences
-permalink: /publication/2026-extreme-heat
+collection: publications
+category: manuscripts
+permalink: /publication/2025-extreme-heat
 excerpt: ''
 date: 2025-01-13
 venue: 'American Journal of Agricultural Economics'
