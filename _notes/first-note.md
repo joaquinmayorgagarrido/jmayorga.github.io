@@ -5,12 +5,14 @@ last_modified_at: 2026-02-14
 layout: single
 ---
 
-# Hitos por año
+*Notas sobre el Club Aurora de Cochabamba.*
 
-## 2026
+2026
+-----
 
-Febrero 14: Plantilla viaja a Chimoré para partido con San Antonio. Quedan varada en medio del camino por bloque de caminos. [Jugadores juegan con niños alrededor](). 
+Febrero 14: Equipo viaja a Chimoré para partido con San Antonio. Queda varado en medio del camino por bloqueo de caminos. Mientras esperan levantamiento de bloqueo, [ jugadores entrenan sobre asfalto](https://www.facebook.com/share/r/173RCL2EVp/). 
 
-## 2025
+2025
+-----
 
 Diciembre 19: TAS falla a favor de Aurora. 
