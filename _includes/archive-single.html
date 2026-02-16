@@ -33,6 +33,13 @@
     <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
   {% endif %}
 </h2>
+<p class="page__meta">
+  Published: {{ post.date | date: "%B %d, %Y" }}
+  {% if post.last_modified_at %}
+    &nbsp;|&nbsp;
+    Last modified: {{ post.last_modified_at | date: "%B %d, %Y" }}
+  {% endif %}
+</p>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}

@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar in the Evans Policy Analysis and Research Group ([EPAR](https://epar.evans.uw.edu)) at the University of Washington.
+I am a Postdoctoral Scholar in the Evans Policy Analysis and Research Group at the University of Washington (([EPAR](https://epar.evans.uw.edu))).
